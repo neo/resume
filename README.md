@@ -10,10 +10,10 @@ __Tools:__ Git, Gulp, Adobe Creative Cloud/Suite
 
 ### Junior Developer (Contract)
 
-[_@Jam3_](https://github.com/Jam3)
+[_@Jam3_]
 October 2016 - March 2017
 
-* Develop [Oreo Space Dunk](https://oreospacedunk.com)
+* Develop [Oreo Space Dunk]
   * Use `React`, `Redux` and `React Router`
   * Build reusable UI components
   * Encode motion graphic assets to optimized video formats for different browsers
@@ -23,7 +23,7 @@ October 2016 - March 2017
 * Experiment with `Angular2` and `RxJS5` by porting a project from `Vue.js`
   * Use and patch the `angular-cli`
 
-* Build the landing page of [Bear 71 VR](https://bear71vr.nfb.ca/)
+* Build the landing page of [Bear 71 VR]
   * Use `gsap` to create animation sequences
 
 * Update a legacy project of WordPress
@@ -37,9 +37,20 @@ September 2015 - April 2016
 
 * Graduate with High Honors
 
+* Focus on front end web development
+
+* Guide and help classmates as peer tutor
+
+* Lead the [grad show website] development team
+
 ### Business Marketing
 
 _Humber College_
 September 2013 - May 2015
 
 * Graduate with Honors
+
+[_@Jam3_]: https://github.com/Jam3
+[Oreo Space Dunk]: https://oreospacedunk.com
+[Bear 71 VR]: https://bear71vr.nfb.ca/
+[grad show website]: http://imm.sheridancollege.ca/openhouse/2016/
