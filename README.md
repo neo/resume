@@ -1,3 +1,5 @@
+### [GitHub](https://github.com/neo) - [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
+
 # Skills
 
 __Languages:__ JavaScript (ES2015+), CSS (Sass/SCSS), and TypeScript
