@@ -1,3 +1,7 @@
+<a href="https://dev.to/li">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Wenchen Li (Neo)'s DEV Profile" height="30" width="30">
+</a>
+
 ### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
 # Skills
