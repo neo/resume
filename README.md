@@ -1,4 +1,4 @@
-### [GitHub](https://github.com/neo) - [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
+### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
 # Skills
 
@@ -13,8 +13,9 @@ __Tools:__ Git, Node.js, Electron, Firebase, and Webpack
 ### Front End Developer
 
 [_@Jam3_]
-March 2017 - Present
+October 2016 - Present
 
+- Lead fast-paced and high-pressure development of campaign mobile websites including [Levi’s Haus Miami] and [Boost My Ride]
 - Build multiple websites with Facebook for global audience
   - Lead development in one of the projects
     - Architect a custom SSR solution with Gatsby and WordPress VIP
@@ -27,25 +28,8 @@ March 2017 - Present
   - Templates-driven forms in Angular are used in one of the projects
 - Build [Success Academy Education Institute]
   - Create and publish a reusable UI component: [React Slot Machine Button]
-
-### Front End Developer (Contract)
-
-[_@Jam3_]
-January 2017 - March 2017
-
-- Develop [Oreo Space Dunk]
-  - Encode motion graphic assets to optimized video formats
-- Create automation scripts to simplify some repetitive processes
-
-### Junior Developer (Student Intern)
-
-[_@Jam3_]
-October 2016 - December 2016
-
-- Experiment with `Angular2` and `RxJS5`
-  - Use and patch the `angular-cli`
-- Build the landing page of [Bear 71 VR]
-  - Use `gsap` to create animation sequences
+- Build [Oreo Space Dunk]
+  - Encode motion graphic assets to optimized video formats balancing creative and performance needs
 
 # Education
 
@@ -57,7 +41,6 @@ September 2015 - April 2016
 * Graduate with High Honors
 * Focus on front end web development
 * Guide and help classmates as peer tutor
-* Lead the [grad show website] development team
 
 ### Business Marketing
 
@@ -67,11 +50,11 @@ September 2013 - May 2015
 * Graduate with Honors
 
 [_@Jam3_]: https://github.com/Jam3
+[Levi’s Haus Miami]: http://strategyonline.ca/2019/12/12/tech-in-action-levis-automates-product-drops-and-pick-ups/
+[Boost My Ride]: http://strategyonline.ca/2019/10/03/adidas-turns-transit-passes-into-scratch-cards-with-ar/
 [AdBlitz 2018]: https://youtube.googleblog.com/2018/02/thats-wrap-see-you-in-atlanta-in-2019.html
 [angular-youtube-player]: https://www.npmjs.com/package/angular-youtube-player
 [Success Academy Education Institute]: https://www.successacademies.org/edinstitute/
 [React Slot Machine Button]: https://github.com/Jam3/slot-machine-button
 [project generator]: https://github.com/Jam3/nyg-jam3
-[Oreo Space Dunk]: http://www.jam3.com/work#oreo-space-dunk
-[Bear 71 VR]: http://www.jam3.com/work#bear71-vr
-[grad show website]: http://imm.sheridancollege.ca/openhouse/2016/
+[Oreo Space Dunk]: https://agency.googleblog.com/2017/02/google-agency-blog-oreo-dunk-challenge.html
