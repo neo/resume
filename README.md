@@ -12,7 +12,9 @@
 - Maintainable JavaScript application
 - Robust architecture engineering
 - Abstraction, automation and scripting
+- Daily new knowledge consumption
 - Empathetic and helpful code reviews
+- Team leader and talent fostering
 - Cross-disciplinary collaboration
 
 # Skills
