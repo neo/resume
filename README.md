@@ -53,7 +53,7 @@ October 2016 - Present
 - Build [Oreo Space Dunk]
   - Encode motion graphic assets to optimized video formats balancing creative and performance needs
   - Help implementing a static localization system to make the global campaign available in 9 languages
-  - Help use machine learning to train and recognize the cookie on client side (in 2016)
+  - Help using machine learning to train and recognize the cookie on client side (in 2016)
 
 # Education
 
