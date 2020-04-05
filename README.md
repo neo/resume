@@ -16,7 +16,7 @@
 - Empathetic and helpful code reviews
 - Team leader and talent fostering
 - Cross-disciplinary collaboration
-- Build award-winning tomorrow's experience
+- Build award-winning novel experience
 
 # Skills
 
@@ -30,7 +30,7 @@ __Tools:__ Git, Node.js, Electron, Firebase, and Webpack
 
 ### Front End Developer
 
-[_@Jam3_]
+___[@Jam3]__ (Member of [FWA Club 100])_
 October 2016 - Present
 
 - Contribute to the [project generator] ([v1], [v2] and v3) of the team
@@ -75,7 +75,8 @@ September 2013 - May 2015
 
 * Graduate with Honors
 
-[_@Jam3_]: https://github.com/Jam3
+[@Jam3]: https://github.com/Jam3
+[FWA Club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
 [Twitter Culture & Conversations]: https://marketing.twitter.com/na/en/culture-and-conversations#/
 [FWA of the day]: https://thefwa.com/cases/twitter-culture-conversations
 [Levi’s Haus Miami]: http://strategyonline.ca/2019/12/12/tech-in-action-levis-automates-product-drops-and-pick-ups/
