@@ -43,6 +43,13 @@ img[alt="Wenchen Li (Neo)'s DEV Profile"] {
   vertical-align: middle;
 }
 
+body:after {
+  content: "This page is optimized for print";
+  display: block;
+  text-align: center;
+  font-size: 0.75em;
+}
+
 @media print {
   body {
     padding: unset;
@@ -51,11 +58,8 @@ img[alt="Wenchen Li (Neo)'s DEV Profile"] {
 
   body::after {
     content: "This is a printed/generated version of https://neo.github.io/resume/";
-    display: block;
     margin-top: 40px;
-    text-align: center;
     border-top: solid 1pt;
-    font-size: 0.75em;
   }
 
   header,
@@ -90,5 +94,9 @@ img[alt="Wenchen Li (Neo)'s DEV Profile"] {
 
   h3 {
     margin: 10px 0 5px;
+  }
+
+  #front-end-developer + p + ul > li:last-child {
+    display: none;
   }
 }
