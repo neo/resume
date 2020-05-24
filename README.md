@@ -10,19 +10,22 @@
 - Pixel perfect UI with elegant CSS
 - Delightful animation in the browser
 - Maintainable JavaScript application
-- Robust architecture engineering
 - Abstraction, automation and scripting
-- Daily new knowledge consumption
+- Robust architecture engineering
+
+<!-- "soft skills" -->
+
 - Empathetic and helpful code reviews
-- Team leader and talent fostering
+- Team leading and talent fostering
 - Cross-disciplinary collaboration
+- Daily knowledge craving and digesting
 - Build award-winning novel experience
 
 # Skills
 
-__Languages:__ HTML, CSS (Sass/SCSS), JavaScript (ES2015+), and TypeScript
+__Languages:__ HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript
 
-__Libraries:__ React, Gatsby, Redux, Angular 2+, RxJS and GSAP
+__Libraries:__ React (with Redux, Next.js and Gatsby), Angular 2+ (with RxJS and NgRx) and GSAP
 
 __Tools:__ Git, Node.js, Electron, Firebase, and Webpack
 
