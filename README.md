@@ -12,16 +12,18 @@
 - Maintainable JavaScript application
 - Abstraction, automation and scripting
 - Robust architecture engineering
+- Pursuit of detail oriented perfection
+- Award-winning novel web experience
 
 <!-- "soft skills" -->
 
 - Empathetic and helpful code reviews
+- Experiment and advocate useful tech
 - Team leading and talent fostering
 - Cross-disciplinary collaboration
-- Daily knowledge craving and digesting
-- Build award-winning novel experience
+- Concept/creative direction evaluation
 
-# Skills
+# What I use
 
 __Languages:__ HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript
 
@@ -36,6 +38,7 @@ __Tools:__ Git, Node.js, Electron, Firebase, and Webpack
 ___[@Jam3]__ (Member of [FWA Club 100])_
 October 2016 - Present
 
+- Lead development of the Google Cloud showcase: [Healthcare Security]
 - Contribute to the [project generator] ([v1], [v2] and v3) of the team
   - Bring best practices and agreed conventions into the seed template for most of the projects in the company
   - Improve and iterate by adding useful utilities and helpful patterns tested and appreciated from other projects
@@ -80,6 +83,7 @@ September 2013 - May 2015
 
 [@Jam3]: https://github.com/Jam3
 [FWA Club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
+[Healthcare Security]: https://showcase.withgoogle.com/healthcare-security/ "Explore our Healthcare-Grade Secure Cloud"
 [Twitter Culture & Conversations]: https://marketing.twitter.com/na/en/culture-and-conversations#/
 [FWA of the day]: https://thefwa.com/cases/twitter-culture-conversations
 [Levi’s Haus Miami]: http://strategyonline.ca/2019/12/12/tech-in-action-levis-automates-product-drops-and-pick-ups/
