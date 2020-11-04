@@ -43,6 +43,10 @@ img[alt="Wenchen Li (Neo)'s DEV Profile"] {
   vertical-align: middle;
 }
 
+details {
+  display: none;
+}
+
 body:after {
   content: "This page is available and optimized for print";
   display: block;
@@ -50,7 +54,21 @@ body:after {
   font-size: 0.75em;
 }
 
+#what-i-do + ul,
+#what-i-do + ul + ul {
+  display: inline-block;
+  vertical-align: top;
+}
+
 @media print {
+  @page {
+    margin: 1in 0.5in;
+  }
+
+  @page:first {
+    margin-top: 0.5in;
+  }
+
   body {
     padding: unset;
     background: unset;
@@ -77,6 +95,7 @@ body:after {
   section {
     padding: unset;
     border-style: unset;
+    max-width: 7in;
   }
 
   ul {
@@ -98,12 +117,5 @@ body:after {
 
   h3 {
     margin: 10px 0 5px;
-  }
-
-  #front-end-developer + p + ul > {
-    li:nth-last-child(2),
-    li:nth-last-child(1) {
-      display: none;
-    }
   }
 }

@@ -52,11 +52,14 @@ October 2016 - Present
   - Lead the development in one of the projects
     - Architect a custom SSR solution with Gatsby and [WordPress VIP]
     - Fully adopt the hooks pattern into the project a few weeks after the stable version of React with hooks released
-  - Hack and XHP are learned quickly and used in some of the projects
 - Build a few projects with Google using Angular including [AdBlitz 2018]
   - Had more than 27 million unique visitors over the super bowl weekend
   - Create and publish a component module: [angular-youtube-player]
   - Templates-driven forms in Angular are used in one of the projects
+
+<details>
+<summary>More experience at this position</summary>
+
 - Build [Success Academy Education Institute]
   - Create and publish a reusable UI component: [React Slot Machine Button]
   - Use many lines of regular expression to parse the HTML output from a WYSIWYG CMS and then reassemble to the desire structure
@@ -64,6 +67,7 @@ October 2016 - Present
   - Encode motion graphic assets to optimized video formats balancing creative and performance needs
   - Help implementing a static localization system to make the global campaign available in 9 languages
   - Help using machine learning to train and recognize the cookie on client side (in 2016)
+</details>
 
 # Education
 
