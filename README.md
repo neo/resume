@@ -38,9 +38,9 @@ __Tools:__ Git, Node.js, Electron, Firebase, and Webpack
 ___[@Jam3]__ (Member of [FWA Club 100])_
 October 2016 - Present
 
-- Lead development of the [award-wining](https://thefwa.com/cases/yesterday-today-tomorrow) ever-evolving interactive experience visualizing the stories on Twitter about COVID-19: [Yesterday, Today, Tomorrow]
+- Lead development of the [award-winning](https://thefwa.com/cases/yesterday-today-tomorrow "FWA of the Day") ever-evolving interactive experience visualizing the stories on Twitter about COVID-19: [Yesterday, Today, Tomorrow]
   - Daily serverless data digest with the Twitter API
-- Lead development of the Google Cloud showcase: [Healthcare Security]
+- Lead development of the [award](https://www.awwwards.com/sites/google-cloud-demos-healthcare "Awwwards: Site of the Day")[-](https://www.cssdesignawards.com/sites/google-cloud-demos-healthcare/38190/ "CSS Design Awards: Website Of The Day")[winning](https://thefwa.com/cases/google-cloud-demos-healthcare "FWA of the Day") playful WebGL experience: [Google Cloud showcase demos – Healthcare-Grade Security]
 - Contribute to the [project generator] ([v1], [v2] and v3) of the team
   - Bring best practices and agreed conventions into the seed template for most of the projects in the company
   - Improve and iterate by adding useful utilities and helpful patterns tested and appreciated from other projects
@@ -90,7 +90,7 @@ September 2013 - May 2015
 [@Jam3]: https://github.com/Jam3
 [FWA Club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
 [Yesterday, Today, Tomorrow]: https://www.nfb.ca/interactive/yesterday
-[Healthcare Security]: https://showcase.withgoogle.com/healthcare-security/ "Explore our Healthcare-Grade Secure Cloud"
+[Google Cloud showcase demos – Healthcare-Grade Security]: https://showcase.withgoogle.com/healthcare-security/ "Go to the experience"
 [Twitter Culture & Conversations]: https://marketing.twitter.com/na/en/culture-and-conversations#/
 [FWA of the day]: https://thefwa.com/cases/twitter-culture-conversations
 [Levi’s Haus Miami]: http://strategyonline.ca/2019/12/12/tech-in-action-levis-automates-product-drops-and-pick-ups/
