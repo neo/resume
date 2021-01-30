@@ -100,7 +100,7 @@ September 2013 - May 2015
 [angular-youtube-player]: https://www.npmjs.com/package/angular-youtube-player
 [Success Academy Education Institute]: https://www.successacademies.org/edinstitute/
 [React Slot Machine Button]: https://github.com/Jam3/slot-machine-button
-[project generator]: https://github.com/Jam3/nyg-nextjs
+[project generator]: https://github.com/Jam3/nextjs-boilerplate
 [v2]: https://github.com/Jam3/nyg-jam3
 [v1]: https://github.com/Jam3/generator-jam3
 [Oreo Space Dunk]: https://agency.googleblog.com/2017/02/google-agency-blog-oreo-dunk-challenge.html
