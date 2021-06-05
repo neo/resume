@@ -1,3 +1,23 @@
+## Education
+
+### Interactive Media Management
+
+_Sheridan College_
+September 2015 - April 2016
+
+- Graduate with High Honors
+- Focus on front end web development
+- Study also UX/UI design, backend development
+- Guide and help classmates as peer tutor
+
+### Business Marketing
+
+_Humber College_
+September 2013 - May 2015
+
+- Graduate with Honors
+- Start doing web development self-taught
+
 ### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
 # What I do
