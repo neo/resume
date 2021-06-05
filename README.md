@@ -1,9 +1,17 @@
-## Education
+# Experience
+
+### [Jam3] _([FWA Club 100])_
+
+_**Front End Developer**, March 2017 – Present_<br>
+_**Front End Developer (Contract)**, January 2017 – March 2017_<br>
+_**Junior Developer (Student Intern)**, October 2016 – December 2016_
+
+# Education
 
 ### Interactive Media Management
 
 _Sheridan College_
-September 2015 - April 2016
+September 2015 – April 2016
 
 - Graduate with High Honors
 - Focus on front end web development
@@ -13,10 +21,13 @@ September 2015 - April 2016
 ### Business Marketing
 
 _Humber College_
-September 2013 - May 2015
+September 2013 – May 2015
 
 - Graduate with Honors
 - Start doing web development self-taught
+
+[jam3]: https://www.jam3.com/
+[fwa club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
 
 ### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
@@ -43,7 +54,7 @@ September 2013 - May 2015
 
 **Languages:** HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript
 
-**Libraries:** React (with Redux, Next.js and Gatsby), Angular 2+ (with RxJS and NgRx) and GSAP
+**Libraries:** React (with Redux, Next.js and Gatsby), Angular 2+ (with RxJS and NgRx) and GSAP (GreenSock Animation Platform)
 
 **Tools:** Git, Node.js, Electron, Firebase, and Webpack
 
@@ -51,7 +62,7 @@ September 2013 - May 2015
 
 ### Front End Developer
 
-**\_[@Jam3]** (Member of [FWA Club 100])\_
+_**[@Jam3]** (Member of [FWA Club 100])_
 October 2016 - Present
 
 - Lead development of the [award-winning](https://thefwa.com/cases/yesterday-today-tomorrow "FWA of the Day") ever-evolving interactive experience visualizing the stories on Twitter about COVID-19: [Yesterday, Today, Tomorrow]
