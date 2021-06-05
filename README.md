@@ -1,7 +1,3 @@
-<a href="https://dev.to/li">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Wenchen Li (Neo)'s DEV Profile" height="30" width="30">
-</a>
-
 ### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
 # What I do
@@ -25,17 +21,17 @@
 
 # What I use
 
-__Languages:__ HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript
+**Languages:** HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript
 
-__Libraries:__ React (with Redux, Next.js and Gatsby), Angular 2+ (with RxJS and NgRx) and GSAP
+**Libraries:** React (with Redux, Next.js and Gatsby), Angular 2+ (with RxJS and NgRx) and GSAP
 
-__Tools:__ Git, Node.js, Electron, Firebase, and Webpack
+**Tools:** Git, Node.js, Electron, Firebase, and Webpack
 
 # Experience
 
 ### Front End Developer
 
-___[@Jam3]__ (Member of [FWA Club 100])_
+**\_[@Jam3]** (Member of [FWA Club 100])\_
 October 2016 - Present
 
 - Lead development of the [award-winning](https://thefwa.com/cases/yesterday-today-tomorrow "FWA of the Day") ever-evolving interactive experience visualizing the stories on Twitter about COVID-19: [Yesterday, Today, Tomorrow]
@@ -67,7 +63,7 @@ October 2016 - Present
   - Encode motion graphic assets to optimized video formats balancing creative and performance needs
   - Help implementing a static localization system to make the global campaign available in 9 languages
   - Help using machine learning to train and recognize the cookie on client side (in 2016)
-</details>
+  </details>
 
 # Education
 
@@ -76,31 +72,31 @@ October 2016 - Present
 _Sheridan College_
 September 2015 - April 2016
 
-* Graduate with High Honors
-* Focus on front end web development
-* Guide and help classmates as peer tutor
+- Graduate with High Honors
+- Focus on front end web development
+- Guide and help classmates as peer tutor
 
 ### Business Marketing
 
 _Humber College_
 September 2013 - May 2015
 
-* Graduate with Honors
+- Graduate with Honors
 
-[@Jam3]: https://github.com/Jam3
-[FWA Club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
-[Yesterday, Today, Tomorrow]: https://www.nfb.ca/interactive/yesterday
-[Google Cloud showcase demos – Healthcare-Grade Security]: https://showcase.withgoogle.com/healthcare-security/ "Go to the experience"
-[Twitter Culture & Conversations]: https://marketing.twitter.com/na/en/culture-and-conversations#/
-[FWA of the day]: https://thefwa.com/cases/twitter-culture-conversations
-[Levi’s Haus Miami]: http://strategyonline.ca/2019/12/12/tech-in-action-levis-automates-product-drops-and-pick-ups/
-[Boost My Ride]: http://strategyonline.ca/2019/10/03/adidas-turns-transit-passes-into-scratch-cards-with-ar/
-[Wordpress VIP]: https://wpvip.com/partner/jam3/
-[AdBlitz 2018]: https://youtube.googleblog.com/2018/02/thats-wrap-see-you-in-atlanta-in-2019.html
+[@jam3]: https://github.com/Jam3
+[fwa club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
+[yesterday, today, tomorrow]: https://www.nfb.ca/interactive/yesterday
+[google cloud showcase demos – healthcare-grade security]: https://showcase.withgoogle.com/healthcare-security/ "Go to the experience"
+[twitter culture & conversations]: https://marketing.twitter.com/na/en/culture-and-conversations#/
+[fwa of the day]: https://thefwa.com/cases/twitter-culture-conversations
+[levi’s haus miami]: http://strategyonline.ca/2019/12/12/tech-in-action-levis-automates-product-drops-and-pick-ups/
+[boost my ride]: http://strategyonline.ca/2019/10/03/adidas-turns-transit-passes-into-scratch-cards-with-ar/
+[wordpress vip]: https://wpvip.com/partner/jam3/
+[adblitz 2018]: https://youtube.googleblog.com/2018/02/thats-wrap-see-you-in-atlanta-in-2019.html
 [angular-youtube-player]: https://www.npmjs.com/package/angular-youtube-player
-[Success Academy Education Institute]: https://www.successacademies.org/edinstitute/
-[React Slot Machine Button]: https://github.com/Jam3/slot-machine-button
+[success academy education institute]: https://www.successacademies.org/edinstitute/
+[react slot machine button]: https://github.com/Jam3/slot-machine-button
 [project generator]: https://github.com/Jam3/nextjs-boilerplate
 [v2]: https://github.com/Jam3/nyg-jam3
 [v1]: https://github.com/Jam3/generator-jam3
-[Oreo Space Dunk]: https://agency.googleblog.com/2017/02/google-agency-blog-oreo-dunk-challenge.html
+[oreo space dunk]: https://agency.googleblog.com/2017/02/google-agency-blog-oreo-dunk-challenge.html
