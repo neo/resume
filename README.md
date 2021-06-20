@@ -10,8 +10,7 @@ _**Junior Developer (Student Intern)**, October 2016 – December 2016_
 
 ### Interactive Media Management
 
-_Sheridan College_
-September 2015 – April 2016
+_**Sheridan College**, September 2015 - April 2016_
 
 - Graduate with High Honors
 - Focus on front end web development
@@ -20,8 +19,7 @@ September 2015 – April 2016
 
 ### Business Marketing
 
-_Humber College_
-September 2013 – May 2015
+_**Humber College**, September 2013 - May 2015_
 
 - Graduate with Honors
 - Start doing web development self-taught
