@@ -6,6 +6,22 @@ _**Front End Developer**, March 2017 – Present_<br>
 _**Front End Developer (Contract)**, January 2017 – March 2017_<br>
 _**Junior Developer (Student Intern)**, October 2016 – December 2016_
 
+- Build [award-winning] novel web experience
+  - Implement aesthetic and fancy design from tools such as Figma, Sketch and Adobe Photoshop
+  - Polish pixel perfect UI with relentless attention to detail
+  - Complement with engaging interactions and delightful animations
+  - Achieve great marketing impacts with a variety of client partners
+  - Deliver within ambitious timeline with fast pace when necessary
+- Strive for a high standard of code quality at the same time
+  - Keep the codebase healthy, maintainable and scalable with a clean and robust architecture
+  - Pursuit and protect performance and accessibility
+  - Ensure cross-browser, cross-device and cross-platform compatibility
+- Collaborate across discipline
+  - Evaluate and validate features, creative concepts and ideas
+  - Anticipate unknown risks, estimate known tasks and manage expectations and priorities
+  - Understand the goals from internal and external stakeholders to balance the needs and get the best result with limited resources
+  - Ask the right questions to reduce confusion and make communication more efficient
+
 # Education
 
 ### Interactive Media Management
@@ -26,6 +42,7 @@ _**Humber College**, September 2013 - May 2015_
 
 [jam3]: https://www.jam3.com/
 [fwa club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
+[award-winning]: /awards-at-jam3.md
 
 ### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
@@ -52,9 +69,9 @@ _**Humber College**, September 2013 - May 2015_
 
 **Languages:** HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript
 
-**Libraries:** React (with Redux, Next.js and Gatsby), Angular 2+ (with RxJS and NgRx) and GSAP (GreenSock Animation Platform)
+**Libraries:** React (with Redux, Next.js and Gatsby), Angular (with RxJS and NgRx) and GSAP
 
-**Tools:** Git, Node.js, Electron, Firebase, and Webpack
+**Tools:** Git, Node.js, Electron, Firebase, and headless CMS like Sanity and Contentful
 
 # Experience
 
