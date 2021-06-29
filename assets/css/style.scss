@@ -49,10 +49,6 @@ img[alt="Wenchen Li (Neo)'s DEV Profile"] {
   vertical-align: middle;
 }
 
-details {
-  display: none;
-}
-
 body:after {
   content: "This page is available and optimized for print";
   display: block;
@@ -123,5 +119,9 @@ body:after {
 
   h3 {
     margin: 10px 0 5px;
+  }
+
+  details {
+    display: none;
   }
 }
