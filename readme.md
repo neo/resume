@@ -6,7 +6,7 @@ _**Front End Developer**, March 2017 － Present_<br>
 _**Front End Developer (Contract)**, January 2017 － March 2017_<br>
 _**Junior Developer (Student Intern)**, October 2016 － December 2016_
 
-- Build [award-winning] novel web experience
+- Build award-winning novel web experience
   - Implement aesthetic and fancy design from tools such as Figma, Sketch and Adobe Photoshop
   - Polish pixel perfect UI with relentless attention to detail
   - Complement with engaging interactions and delightful animations
@@ -24,7 +24,7 @@ _**Junior Developer (Student Intern)**, October 2016 － December 2016_
 
 <details>
 
-<summary>Accolades awarded during the time at Jam3</summary>
+<summary><strong>Accolades awarded during the time at Jam3</strong></summary>
 
 - [NFB](https://www.nfb.ca/interactive/yesterday/ "National Film Board of Canada") data visualization with COVID-19 related Tweets: Yesterday, Today, Tomorrow ([see it live](https://yesterday.nfb.ca/))
   - Webby [People's Voice Winner](https://winners.webbyawards.com/2021/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/172346/yesterday-today-tomorrow) in the [NetArt](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-websites-and-mobile-sites/netart) category
@@ -60,7 +60,6 @@ _**Humber College**, September 2013 － May 2015_
 
 [jam3]: https://www.jam3.com/
 [fwa club 100]: https://thefwa.com/news/fwa-club-100-welcomes-jam3
-[award-winning]: /awards-at-jam3.md
 
 ### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
