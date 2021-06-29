@@ -2,9 +2,9 @@
 
 ### [Jam3] _([FWA Club 100])_
 
-_**Front End Developer**, March 2017 – Present_<br>
-_**Front End Developer (Contract)**, January 2017 – March 2017_<br>
-_**Junior Developer (Student Intern)**, October 2016 – December 2016_
+_**Front End Developer**, March 2017 － Present_<br>
+_**Front End Developer (Contract)**, January 2017 － March 2017_<br>
+_**Junior Developer (Student Intern)**, October 2016 － December 2016_
 
 - Build [award-winning] novel web experience
   - Implement aesthetic and fancy design from tools such as Figma, Sketch and Adobe Photoshop
@@ -26,7 +26,7 @@ _**Junior Developer (Student Intern)**, October 2016 – December 2016_
 
 ### Interactive Media Management
 
-_**Sheridan College**, September 2015 - April 2016_
+_**Sheridan College**, September 2015 － April 2016_
 
 - Graduate with High Honors
 - Focus on front end web development
@@ -35,7 +35,7 @@ _**Sheridan College**, September 2015 - April 2016_
 
 ### Business Marketing
 
-_**Humber College**, September 2013 - May 2015_
+_**Humber College**, September 2013 － May 2015_
 
 - Graduate with Honors
 - Start doing web development self-taught
