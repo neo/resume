@@ -1,4 +1,9 @@
-# Experience
+---
+permalink: /
+title: Front-End Engineer Crafting Marketing Websites
+---
+
+## Experience
 
 ### [Jam3] _([FWA Club 100])_
 
@@ -6,16 +11,6 @@ _**Front End Developer**, March 2017 － Present_<br>
 _**Front End Developer (Contract)**, January 2017 － March 2017_<br>
 _**Junior Developer (Student Intern)**, October 2016 － December 2016_
 
-- Build award-winning novel web experience
-  - Implement aesthetic and fancy design from tools such as Figma, Sketch and Photoshop
-  - Polish pixel perfect UI with relentless attention to detail
-  - Complement with engaging interactions and delightful animations
-  - Achieve great marketing impacts with a variety of client partners
-  - Deliver within ambitious timeline with fast pace when necessary
-- Strive for a high standard of code quality at the same time
-  - Keep the codebase healthy, maintainable and scalable with a clean and robust architecture
-  - Advocate, pursuit and protect performance and accessibility of the websites we make
-  - Ensure cross-browser, cross-device and cross-platform compatibility
 - Lead within the department in various ways
   - Lead development of client projects with teams of 3 ~ 6+ developers for the duration ranging from 3 weeks to 3+ months
   - Provide empathetic and educative code reviews as well as constructive feedback
@@ -32,6 +27,16 @@ _**Junior Developer (Student Intern)**, October 2016 － December 2016_
   - Anticipate unknown risks, estimate known tasks and manage expectations and priorities
   - Understand the goals from internal and external stakeholders to balance the needs and get the best result with limited resources
   - Ask the right questions to reduce confusion and make communication more efficient
+- Strive for a high standard of code quality
+  - Keep the codebase healthy, maintainable and scalable with a clean and robust architecture
+  - Advocate, pursuit and protect performance and accessibility of the websites we make
+  - Ensure cross-browser, cross-device and cross-platform compatibility
+- Build award-winning novel web experience
+  - Implement aesthetic and fancy design from tools such as Figma, Sketch and Photoshop
+  - Polish pixel perfect UI with relentless attention to detail
+  - Complement with engaging interactions and delightful animations
+  - Achieve great marketing impacts with a variety of client partners
+  - Deliver within ambitious timeline with fast pace when necessary
 
 <details>
 
@@ -51,7 +56,7 @@ _**Junior Developer (Student Intern)**, October 2016 － December 2016_
 
 </details>
 
-# Education
+## Education
 
 ### Interactive Media Management
 

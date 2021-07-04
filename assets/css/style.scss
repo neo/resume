@@ -56,6 +56,16 @@ body:after {
   font-size: 0.75em;
 }
 
+// copied from `nav ul li.tag-h1`
+nav ul li.tag-h2 {
+  font-size: 1.2em;
+}
+
+nav ul li.tag-h2 a {
+  font-weight: bold;
+  color: #333;
+}
+
 #what-i-do + ul,
 #what-i-do + ul + ul {
   display: inline-block;
@@ -113,7 +123,8 @@ body:after {
     content: " (" attr(title) ": " attr(href) ")";
   }
 
-  h1 {
+  h1,
+  h2 {
     margin-bottom: 10px;
   }
 
