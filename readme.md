@@ -7,15 +7,26 @@ _**Front End Developer (Contract)**, January 2017 － March 2017_<br>
 _**Junior Developer (Student Intern)**, October 2016 － December 2016_
 
 - Build award-winning novel web experience
-  - Implement aesthetic and fancy design from tools such as Figma, Sketch and Adobe Photoshop
+  - Implement aesthetic and fancy design from tools such as Figma, Sketch and Photoshop
   - Polish pixel perfect UI with relentless attention to detail
   - Complement with engaging interactions and delightful animations
   - Achieve great marketing impacts with a variety of client partners
   - Deliver within ambitious timeline with fast pace when necessary
 - Strive for a high standard of code quality at the same time
   - Keep the codebase healthy, maintainable and scalable with a clean and robust architecture
-  - Pursuit and protect performance and accessibility
+  - Advocate, pursuit and protect performance and accessibility of the websites we make
   - Ensure cross-browser, cross-device and cross-platform compatibility
+- Lead within the department in various ways
+  - Lead development of client projects with teams of 3 ~ 6+ developers for the duration ranging from 3 weeks to 3+ months
+  - Provide empathetic and educative code reviews as well as constructive feedback
+  - Learn from and mentor/foster others with passion and patience
+  - Experiment and evaluate tech and patterns and advocate the suitable and useful ones
+  - Keep learning quickly, continuously and autonomously and sharing findings with the team
+  - Make observations and suggestions to improve the production process
+  - Contribute to internal toolings
+    - Advocate best practices and internal conventions, and contribute to automatic tools to help enforcing them
+    - Author, abstract and contribute reusable logic and code into libraries and templates
+    - Initiate and participate in discussions to iterate and improve the existing toolings
 - Collaborate across discipline
   - Evaluate and validate features, creative concepts and ideas
   - Anticipate unknown risks, estimate known tasks and manage expectations and priorities
