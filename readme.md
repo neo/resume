@@ -3,6 +3,12 @@ permalink: /
 title: Front-End Engineer Crafting Marketing Websites
 ---
 
+## Expertise
+
+**Languages:** HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript<br>
+**Libraries:** React (with Redux, Next.js and Gatsby), Angular (with RxJS and NgRx) and GSAP<br>
+**Tools:** Git, Node.js, Storybook, Jest and headless CMS like Sanity and Contentful
+
 ## Experience
 
 ### [Jam3] _([FWA Club 100])_
