@@ -1,23 +1,23 @@
 ---
 permalink: /
-title: Front-End Engineer Crafting Marketing Websites
+title: Wenchen Li
 ---
 
 ### [GitHub](https://github.com/neo) – [LinkedIn](https://www.linkedin.com/in/wenchen-li/)
 
 ## Expertise
 
-**Languages:** HTML, CSS (SCSS), JavaScript (ES2015+/ESNext), and TypeScript<br>
-**Libraries:** React (with Redux, Next.js and Gatsby), Angular (with RxJS and NgRx) and GSAP<br>
-**Tools:** Git, Node.js, Storybook, Jest and headless CMS like Sanity and Contentful
+**Languages:** HTML, CSS (SCSS), JavaScript (ES2015+), TypeScript, and Python 3<br>
+**Libraries:** React (with Redux, Next.js and Gatsby), Angular 4+ (with RxJS and NgRx) and GSAP<br>
+**Tools:** Git, Node.js, Storybook, Dockerfile, Terraform, GCP, AWS, and headless CMS
 
 ## Experience
 
 ### Jam3 _([FWA Club 100](https://thefwa.com/news/fwa-club-100-welcomes-jam3))_
 
-_**Front End Developer**, March 2017 － Present_<br>
-_**Front End Developer (Contract)**, January 2017 － March 2017_<br>
-_**Junior Developer (Student Intern)**, October 2016 － December 2016_
+_**Senior Front End Developer**, Feb 2022 － Present_<br>
+_**Front End Developer**, March 2017 －  Feb 2022_<br>
+_**Junior Developer (Student Intern)**, October 2016 － March 2017_
 
 - Lead within the department in various ways
   - Lead development of client projects with teams of 3 ~ 6+ developers for the duration ranging from 3 weeks to 3+ months
@@ -50,8 +50,11 @@ _**Junior Developer (Student Intern)**, October 2016 － December 2016_
 
 <summary><strong>Accolades awarded during the time at Jam3</strong></summary>
 
+- Wild Cities: a voice-activated interactive AR story our symbiotic relationship with nature ([download from micro-site](https://wildcities.app))
+  - [FWA of the day](https://thefwa.com/cases/wild-cities) － June 7, 2022
+  - Webby [Nominee](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality/218254/wild-cities) in the [Best Use of Augmented Reality](https://winners.webbyawards.com/winners/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality?years=0) category － 2022
 - [NFB](https://www.nfb.ca/interactive/yesterday/ "National Film Board of Canada") data visualization with COVID-19 related Tweets: Yesterday, Today, Tomorrow ([see it live](https://yesterday.nfb.ca/))
-  - Webby [People's Voice Winner](https://winners.webbyawards.com/2021/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/172346/yesterday-today-tomorrow) in the [NetArt](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-websites-and-mobile-sites/netart) category
+  - Webby [People's Voice Winner](https://winners.webbyawards.com/2021/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/172346/yesterday-today-tomorrow) in the [NetArt](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-websites-and-mobile-sites/netart?years=1) category － 2021
   - [FWA of the day](https://thefwa.com/cases/yesterday-today-tomorrow) － November 4, 2020
   - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/yesterday-today-tomorrow/38071/) － December 3, 2020
   - ADCC Awards: Silver in [Website Animation & Motion](https://winning.work/work/601-nfb-covid), Bronze in [Website Design](https://winning.work/work/600-nfb-covid) and [Creative Data](https://winning.work/work/599-nfb-covid)
