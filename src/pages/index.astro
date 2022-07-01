@@ -1,0 +1,28 @@
+---
+import { frontmatter, Content } from "../../readme.md";
+---
+
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{frontmatter.title}</title>
+    <link
+      rel="stylesheet"
+      media="screen"
+      href="https://unpkg.com/sakura.css/css/sakura-ink.css"
+    />
+    <link
+      rel="stylesheet"
+      media="screen and (prefers-color-scheme: dark)"
+      href="https://unpkg.com/sakura.css/css/sakura-vader.css"
+    />
+  </head>
+
+  <body>
+    <h1>{frontmatter.title}</h1>
+
+    <Content />
+  </body>
+</html>

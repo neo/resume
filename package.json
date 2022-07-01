@@ -1,0 +1,16 @@
+{
+  "homepage": "https://neo.github.io/resume/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neo/resume.git"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^1.1.1"
+  }
+}
