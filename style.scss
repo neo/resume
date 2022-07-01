@@ -1,4 +1,5 @@
 section {
+  width: 606px;
   padding: 30px;
 }
 
@@ -65,10 +66,8 @@ nav ul li.tag-h2 a {
   color: #333;
 }
 
-#what-i-do + ul,
-#what-i-do + ul + ul {
-  display: inline-block;
-  vertical-align: top;
+#banner {
+  margin-right: -399px;
 }
 
 @media print {
@@ -106,7 +105,8 @@ nav ul li.tag-h2 a {
   section {
     padding: unset;
     border-style: unset;
-    max-width: 7in;
+    max-width: unset;
+    width: 7.1in;
   }
 
   ul {

@@ -16,58 +16,53 @@ title: Wenchen Li
 ### Jam3 _([FWA Club 100](https://thefwa.com/news/fwa-club-100-welcomes-jam3))_
 
 _**Senior Front End Developer**, Feb 2022 － Present_<br>
-_**Front End Developer**, March 2017 －  Feb 2022_<br>
-_**Junior Developer (Student Intern)**, October 2016 － March 2017_
+_**Front End Developer**, March 2017 － Feb 2022_<br>
+_**Junior Developer**, October 2016 － March 2017 (Internship)_
 
 - Lead within the department in various ways
   - Lead development of client projects with teams of 3 ~ 6+ developers for the duration ranging from 3 weeks to 3+ months
+  - Guide and help as the subject matter expert of Git, TypeScript, Angular and React Hooks
+  - Mentor and conduct interview with students from the Waterloo co-op program
   - Provide empathetic and educative code reviews as well as constructive feedback
-  - Learn from and mentor/foster others with passion and patience
-  - Experiment and evaluate tech and patterns and advocate the suitable and useful ones
-  - Keep learning quickly, continuously and autonomously and sharing findings with the team
-  - Make observations and suggestions to improve the production process
-  - Contribute to internal toolings
-    - Advocate best practices and internal conventions, and contribute to automatic tools to help enforcing them
-    - Author, abstract and contribute reusable logic and code into libraries and templates
-    - Initiate and participate in discussions to iterate and improve the existing toolings
-- Collaborate across discipline
-  - Evaluate and validate features, creative concepts and ideas
-  - Anticipate unknown risks, estimate known tasks and manage expectations and priorities
+  - Contribute to the [React boilerplate](https://github.com/Jam3/nextjs-boilerplate) used by almost every project in the company
+    - Initiate the transition to TypeScript with 4-year effort of persistent pitching
+    - Spearhead the discussion and transition to a static pre-rendering React framework
+    - Adopt the React Hooks pattern when first released and expand adoption company-wide
+- Collaborate across disciplines
+  - Nurture, evaluate and validate features, creative concepts and ideas
+  - Work with designers as a team on a daily basis to maximize the ideal outcome
+  - Ask the right questions, clarify requirements, anticipate unknown risks, estimate known tasks and manage expectations and priorities
   - Understand the goals from internal and external stakeholders to balance the needs and get the best result with limited resources
-  - Ask the right questions to reduce confusion and make communication more efficient
-- Strive for a high standard of code quality
+- Strive for a high standard of code quality (sometimes compulsively)
+  - Advocate and help enforce idiomatic patterns, best practices and internal conventions
   - Keep the codebase healthy, maintainable and scalable with a clean and robust architecture
   - Advocate, pursuit and protect performance and accessibility of the websites we make
-  - Ensure cross-browser, cross-device and cross-platform compatibility
 - Build award-winning novel web experience
-  - Implement aesthetic and fancy design from tools such as Figma, Sketch and Photoshop
-  - Polish pixel perfect UI with relentless attention to detail
-  - Complement with engaging interactions and delightful animations
-  - Achieve great marketing impacts with a variety of client partners
-  - Deliver within ambitious timeline with fast pace when necessary
+  - Implement aesthetic UI design, engaging interactions and delightful animations with a relentless "pixel perfect" level of attention to detail
+  - Deliver within ambitious timeline with fast pace when necessary, and achieve great marketing impacts with a variety of client partners
 
 <details>
 
 <summary><strong>Accolades awarded during the time at Jam3</strong></summary>
 
 - Wild Cities: a voice-activated interactive AR story our symbiotic relationship with nature ([download from micro-site](https://wildcities.app))
-  - [FWA of the day](https://thefwa.com/cases/wild-cities) － June 7, 2022
-  - Webby [Nominee](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality/218254/wild-cities) in the [Best Use of Augmented Reality](https://winners.webbyawards.com/winners/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality?years=0) category － 2022
+  - [FWA of the day](https://thefwa.com/cases/wild-cities)
+  - Webby [Nominee](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality/218254/wild-cities) in the [Best Use of Augmented Reality](https://winners.webbyawards.com/winners/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality?years=0) category 2022
 - ComplexLand 2020: fashion e-commerce in a open 3D WebGL world like a role play game ([watch how it went](https://www.youtube.com/watch?v=yBPVGAVnsbA))
-  - [FWA of the day](https://thefwa.com/cases/complexland) － December 13, 2020
+  - [FWA of the day](https://thefwa.com/cases/complexland)
 - [NFB](https://www.nfb.ca/interactive/yesterday/ "National Film Board of Canada") data visualization with COVID-19 related Tweets: Yesterday, Today, Tomorrow ([see it live](https://yesterday.nfb.ca/))
-  - Webby [People's Voice Winner](https://winners.webbyawards.com/2021/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/172346/yesterday-today-tomorrow) in the [NetArt](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-websites-and-mobile-sites/netart?years=1) category － 2021
-  - [FWA of the day](https://thefwa.com/cases/yesterday-today-tomorrow) － November 4, 2020
-  - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/yesterday-today-tomorrow/38071/) － December 3, 2020
-  - ADCC Awards: Silver in [Website Animation & Motion](https://winning.work/work/1231-nfb-covid), Bronze in [Website Design](https://winning.work/work/1230-nfb-covid) and [Creative Data](https://winning.work/work/1229-nfb-covid)
+  - Webby [People's Voice Winner](https://winners.webbyawards.com/2021/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/172346/yesterday-today-tomorrow) in the [NetArt](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-websites-and-mobile-sites/netart?years=1) category 2021
+  - [FWA of the day](https://thefwa.com/cases/yesterday-today-tomorrow)
+  - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/yesterday-today-tomorrow/38071/)
+  - ADCC Awards: Silver in [Website Animation & Motion](https://winning.work/work/1231-nfb-covid), Bronze in [Website Design](https://winning.work/work/1230-nfb-covid) and [Creative Data](https://winning.work/work/1229-nfb-covid)
 - Google Cloud showcase demo: Healthcare-Grade Secure Cloud ([see it live](https://showcase.withgoogle.com/healthcare-security/))
-  - [FWA of the day](https://thefwa.com/cases/google-cloud-demos-healthcare) － November 21, 2020
-  - Awwwards [Site Of The Day](https://www.awwwards.com/sites/google-cloud-demos-healthcare) and Developer Site － December 18, 2020
-  - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/google-cloud-demos-healthcare/38190/) & [Website of the year nominee](https://cssdesignawards.com/woty2020/sites/google-cloud-demos-healthcare) － December 20, 2020
+  - [FWA of the day](https://thefwa.com/cases/google-cloud-demos-healthcare)
+  - Awwwards [Site Of The Day](https://www.awwwards.com/sites/google-cloud-demos-healthcare) and Developer Site
+  - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/google-cloud-demos-healthcare/38190/) & [Website of the year nominee](https://cssdesignawards.com/woty2020/sites/google-cloud-demos-healthcare)
 - Twitter Culture & Conversations ([see it live](https://marketing.twitter.com/en/culture-and-conversations#/))
-  - [FWA of the day](https://thefwa.com/cases/twitter-culture-conversations) － March 26, 2020
+  - [FWA of the day](https://thefwa.com/cases/twitter-culture-conversations)
 - Levi's Wynwood: Activation in Miami ([watch how it went](https://www.youtube.com/watch?v=Qy_6V7DDVQI))
-  - [FWA of the day](https://thefwa.com/cases/levis-wynwood-p2) － March 04, 2020
+  - [FWA of the day](https://thefwa.com/cases/levis-wynwood-p2)
 
 </details>
 
