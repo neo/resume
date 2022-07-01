@@ -53,17 +53,21 @@ _**Junior Developer (Student Intern)**, October 2016 － March 2017_
 - Wild Cities: a voice-activated interactive AR story our symbiotic relationship with nature ([download from micro-site](https://wildcities.app))
   - [FWA of the day](https://thefwa.com/cases/wild-cities) － June 7, 2022
   - Webby [Nominee](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality/218254/wild-cities) in the [Best Use of Augmented Reality](https://winners.webbyawards.com/winners/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality?years=0) category － 2022
+- ComplexLand 2020: fashion e-commerce in a open 3D WebGL world like a role play game ([watch how it went](https://www.youtube.com/watch?v=yBPVGAVnsbA))
+  - [FWA of the day](https://thefwa.com/cases/complexland) － December 13, 2020
 - [NFB](https://www.nfb.ca/interactive/yesterday/ "National Film Board of Canada") data visualization with COVID-19 related Tweets: Yesterday, Today, Tomorrow ([see it live](https://yesterday.nfb.ca/))
   - Webby [People's Voice Winner](https://winners.webbyawards.com/2021/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/172346/yesterday-today-tomorrow) in the [NetArt](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-websites-and-mobile-sites/netart?years=1) category － 2021
   - [FWA of the day](https://thefwa.com/cases/yesterday-today-tomorrow) － November 4, 2020
   - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/yesterday-today-tomorrow/38071/) － December 3, 2020
-  - ADCC Awards: Silver in [Website Animation & Motion](https://winning.work/work/601-nfb-covid), Bronze in [Website Design](https://winning.work/work/600-nfb-covid) and [Creative Data](https://winning.work/work/599-nfb-covid)
+  - ADCC Awards: Silver in [Website Animation & Motion](https://winning.work/work/1231-nfb-covid), Bronze in [Website Design](https://winning.work/work/1230-nfb-covid) and [Creative Data](https://winning.work/work/1229-nfb-covid)
 - Google Cloud showcase demo: Healthcare-Grade Secure Cloud ([see it live](https://showcase.withgoogle.com/healthcare-security/))
   - [FWA of the day](https://thefwa.com/cases/google-cloud-demos-healthcare) － November 21, 2020
   - Awwwards [Site Of The Day](https://www.awwwards.com/sites/google-cloud-demos-healthcare) and Developer Site － December 18, 2020
   - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/google-cloud-demos-healthcare/38190/) & [Website of the year nominee](https://cssdesignawards.com/woty2020/sites/google-cloud-demos-healthcare) － December 20, 2020
 - Twitter Culture & Conversations ([see it live](https://marketing.twitter.com/en/culture-and-conversations#/))
   - [FWA of the day](https://thefwa.com/cases/twitter-culture-conversations) － March 26, 2020
+- Levi's Wynwood: Activation in Miami ([watch how it went](https://www.youtube.com/watch?v=Qy_6V7DDVQI))
+  - [FWA of the day](https://thefwa.com/cases/levis-wynwood-p2) － March 04, 2020
 
 </details>
 
