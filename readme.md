@@ -20,10 +20,11 @@ _**Front End Developer**, March 2017 － Feb 2022_<br>
 _**Junior Developer**, October 2016 － March 2017 (Internship)_
 
 - Lead within the department in various ways
-  - Lead development of client projects with teams of 3 ~ 6+ developers for the duration ranging from 3 weeks to 3+ months
+  - Lead development of client projects with teams of 3 ~ 6+ developers for the duration ranging from 3 weeks to 3+ months – analyze, divide, delegate, supervise and consolidate work
+  - Design, architect and integrate front-end with CMS, API and build systems
   - Guide and help as the subject matter expert of Git, TypeScript, Angular and React Hooks
   - Mentor and conduct interview with students from the Waterloo co-op program
-  - Provide empathetic and educative code reviews as well as constructive feedback
+  - Provide empathetic and educative code reviews and sign off as the final reviewer
   - Contribute to the [React boilerplate](https://github.com/Jam3/nextjs-boilerplate) used by almost every project in the company
     - Initiate the transition to TypeScript with 4-year effort of persistent pitching
     - Spearhead the discussion and transition to a static pre-rendering React framework
