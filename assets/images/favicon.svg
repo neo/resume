@@ -1,0 +1,14 @@
+<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      rect { fill: whitesmoke; }
+      g { fill: #222; }
+    }
+  </style>
+  <rect width="16" height="16" rx="3" fill="#222" />
+  <g fill="ghostwhite">
+    <path d="M2,2V12Q2,14 4,14H9V12H5Q4,12 4,11V2Z" />
+    <path d="M11,8V14H13V8Z" />
+    <circle cx="12" cy="4" r="2" />
+  </g>
+</svg>
