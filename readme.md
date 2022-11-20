@@ -47,15 +47,17 @@ _**Junior Developer**, October 2016 － March 2017 (Internship)_
 <summary><strong>Accolades awarded during the time at Jam3</strong></summary>
 
 - Wild Cities: a voice-activated interactive AR story our symbiotic relationship with nature ([download from micro-site](https://wildcities.app))
-  - [FWA of the day](https://thefwa.com/cases/wild-cities)
   - Webby [Nominee](https://winners.webbyawards.com/2022/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality/218254/wild-cities) in the [Best Use of Augmented Reality](https://winners.webbyawards.com/winners/apps-and-software/mobile-ott-app-features/best-use-of-augmented-reality?years=0) category 2022
+  - ADCC Awards: Bronze in [Augmented Reality & Virtual Reality](https://theadcc.ca/archive/wild-cities_2022_bronze_augmented-reality-virtual-reality)
+  - [FWA of the day](https://thefwa.com/cases/wild-cities)
 - ComplexLand 2020: fashion e-commerce in a open 3D WebGL world like a role play game ([watch how it went](https://www.youtube.com/watch?v=yBPVGAVnsbA))
+  - ADCC Awards: Bronze in [Websites](https://theadcc.ca/archive/complexland_2021_bronze_websites)
   - [FWA of the day](https://thefwa.com/cases/complexland)
 - [NFB](https://www.nfb.ca/interactive/yesterday/ "National Film Board of Canada") data visualization with COVID-19 related Tweets: Yesterday, Today, Tomorrow ([see it live](https://yesterday.nfb.ca/))
   - Webby [People's Voice Winner](https://winners.webbyawards.com/2021/websites-and-mobile-sites/general-websites-and-mobile-sites/netart/172346/yesterday-today-tomorrow) in the [NetArt](https://winners.webbyawards.com/winners/websites-and-mobile-sites/general-websites-and-mobile-sites/netart?years=1) category 2021
+  - ADCC Awards: Silver in [Website Animation & Motion](https://theadcc.ca/archive/nfb-covid_2021_silver_website-animation-motion), Bronze in [Website Design](https://theadcc.ca/archive/nfb-covid_2021_bronze_website-design) and [Creative Data](https://theadcc.ca/archive/nfb-covid_2021_bronze_creative-data)
   - [FWA of the day](https://thefwa.com/cases/yesterday-today-tomorrow)
   - CSS Design Awards [Website of the day](https://www.cssdesignawards.com/sites/yesterday-today-tomorrow/38071/)
-  - ADCC Awards: Silver in [Website Animation & Motion](https://winning.work/work/1231-nfb-covid), Bronze in [Website Design](https://winning.work/work/1230-nfb-covid) and [Creative Data](https://winning.work/work/1229-nfb-covid)
 - Google Cloud showcase demo: Healthcare-Grade Secure Cloud ([see it live](https://showcase.withgoogle.com/healthcare-security/))
   - [FWA of the day](https://thefwa.com/cases/google-cloud-demos-healthcare)
   - Awwwards [Site Of The Day](https://www.awwwards.com/sites/google-cloud-demos-healthcare) and Developer Site
