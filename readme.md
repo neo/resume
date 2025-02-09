@@ -1,6 +1,6 @@
 ---
 name: Wenchen Li
-title: Senior Front-End Engineer
+title: Senior Software Engineer, Applied AI/Front-End
 ---
 
 ## Experience
@@ -28,8 +28,8 @@ title: Senior Front-End Engineer
 
 | Jam3 (now part of Monks)   |                                 |
 | :------------------------- | ------------------------------: |
-| Senior Front End Developer | February 2022 － September 2023 |
-| Front End Developer        |     March 2017 － February 2022 |
+| Senior Front-End Developer | February 2022 － September 2023 |
+| Front-End Developer        |     March 2017 － February 2022 |
 | Junior Developer (Intern)  |      October 2016 － March 2017 |
 
 - Shipped **40+** projects with varied durations of **3 weeks ~ 3 months+**
