@@ -33,9 +33,12 @@ title: Senior Software Engineer, Applied AI/Front-End
 | Junior Developer (Intern)  |      October 2016 － March 2017 |
 
 - Shipped **40+** projects with varied durations of **3 weeks ~ 3 months+**
-- Led teams of **3 ~ 6+** developers on **15+** projects
+- Led development on **15+** projects with teams of **3 ~ 6+** by delegating work and performing code reviews, managing progress, risks, priorities and expectations
+- Facilitated **developer experience committee** with internal templates, convention, adoption, libraries and automatic toolings
 - Introduced and piloted various tech within the team, most notably including:
   <br>React with Hooks, TypeScript, Redux Toolkit, Nextjs, Gatsbyjs, Angular, Nx, and Git rebase
+- Mentored and interviewed students from the co-op program with University of Waterloo
+- Collaborated closely across different disciplines especially with the design and creative team on a daily basis
 
 ## Education
 
