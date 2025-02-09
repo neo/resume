@@ -3,6 +3,12 @@ name: Wenchen Li
 title: Senior Software Engineer, Applied AI/Front-End
 ---
 
+## Expertise
+
+**Languages:** HTML, CSS/Sass, JavaScript/TypeScript, and Python<br>
+**Libraries:** React (with Redux, Next.js and Gatsby), Angular (with RxJS and NgRx), and diffusers<br>
+**Tools:** Git, Node.js, RegExp, Dockerfile, GCP, AWS, Swagger/OpenAPI, ComfyUI, and JupyterLab
+
 ## Experience
 
 | Monks                          |                           |
