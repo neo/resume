@@ -1,6 +1,7 @@
 ---
-name: Wenchen Li
-title: Senior Software Engineer, Applied AI/Front-End
+title: Wenchen Li
+# title: Senior Software Engineer, Applied AI/Front-End
+permalink: /
 ---
 
 ## Expertise

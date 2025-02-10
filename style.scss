@@ -26,6 +26,11 @@ ul {
   margin: 0 0 10px;
 }
 
+table,
+ul ul {
+  margin-bottom: 5px;
+}
+
 ol,
 ul {
   padding-left: 20px;
@@ -46,15 +51,11 @@ summary {
   cursor: pointer;
 }
 
-img[alt="Wenchen Li (Neo)'s DEV Profile"] {
-  vertical-align: middle;
-}
-
 body:after {
   content: "This page is available and optimized for print";
   display: block;
   text-align: center;
-  font-size: 0.75em;
+  font-size: 12px;
 }
 
 // copied from `nav ul li.tag-h1`
@@ -69,6 +70,28 @@ nav ul li.tag-h2 a {
 
 #banner {
   margin-right: -399px;
+}
+
+th,
+td {
+  padding: 0;
+  border-style: none;
+
+  &[align="right"] {
+    text-align: right;
+  }
+}
+
+th:first-child {
+  font-size: 16px;
+}
+
+th:not(:first-child) {
+  font-weight: normal;
+}
+
+td:first-child {
+  border-left-style: none;
 }
 
 @media print {
