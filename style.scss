@@ -96,11 +96,11 @@ td:first-child {
 
 @media print {
   @page {
-    margin: 1in 0.5in;
+    margin: 0.5in 0 0.2in;
   }
 
   @page:first {
-    margin-top: 0.5in;
+    margin-top: 0.1in;
   }
 
   body {
@@ -110,7 +110,7 @@ td:first-child {
 
   body::after {
     content: "This is a printed/generated version of https://neo.github.io/resume/";
-    margin-top: 40px;
+    margin-top: 30px;
     border-top: solid 1pt;
   }
 
@@ -130,7 +130,8 @@ td:first-child {
     padding: unset;
     border-style: unset;
     max-width: unset;
-    width: 7.1in;
+    width: 7.5in;
+    height: auto !important;
   }
 
   ul {
@@ -149,6 +150,7 @@ td:first-child {
   h1,
   h2 {
     margin-bottom: 10px;
+    break-after: avoid-page;
   }
 
   h3 {
