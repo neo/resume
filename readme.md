@@ -30,8 +30,8 @@ permalink: /
   - A brand design portal with a significant amount of images and visual guidelines
   - The entire history of UEFA Champions League about every season, team and player
 - Experimented with different **applied AI** use cases:
-  - Nvidia ACE models such as Riva TTS and Voice Font
-  - State-of-the-art virtual try-on solutions
+  - Nvidia ACE models such as Riva TTS and Voice Font aiming for real-time interaction
+  - State-of-the-art virtual try-on solutions aiming to preserve personal characteristics
 
 | Jam3 (now part of Monks)   |                                 |
 | :------------------------- | ------------------------------: |

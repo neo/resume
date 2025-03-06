@@ -52,10 +52,10 @@ summary {
 }
 
 body:after {
-  content: "This page is available and optimized for print";
+  content: "This page is optimized for print";
   display: block;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 // copied from `nav ul li.tag-h1`
@@ -109,7 +109,7 @@ td:first-child {
   }
 
   body::after {
-    content: "This is a printed/generated version of https://neo.github.io/resume/";
+    content: "This is a generated print version of https://neo.github.io/resume/";
     margin-top: 30px;
     border-top: solid 1pt;
   }
